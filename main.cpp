@@ -4,7 +4,7 @@
 void task1();
 void task2();
 
-
+void RenderScene();
 
 int main(int argc, char* argv[]){
     glutInit(&argc, argv);
